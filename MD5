@@ -1,0 +1,14 @@
+47b0a1465c6977503710fe01566c8f08 *DESCRIPTION
+57f297d6189f0746c615e0b25c3f7e86 *NAMESPACE
+dbd11f4e4cc23ecb82c29cd8f6d29e11 *R/rutledge-package.R
+95e5ff883f6b54de0540192e3cc0eaf8 *R/rutledge.R
+b56ff2b193ecba52f9ec7f3b10cca008 *R/utils-pipe.R
+5c5dbf208cf46aff7fc05dbaf01a3dce *README.md
+ea124a494ad7922985532ad3b308e4d5 *build/partial.rdb
+f80fb8b30e1fafb1133d05b6999dea6a *data/rutledge.rda
+eaa44d0229524d9fbe0961aea6d2c8e7 *man/figures/README-unnamed-chunk-2-1.png
+ec8ae9016cc50aee358bb79535abd2b5 *man/figures/README-unnamed-chunk-3-1.png
+eaa44d0229524d9fbe0961aea6d2c8e7 *man/figures/README-unnamed-chunk-4-1.png
+8f4aad003a999fae004ba9361f9a99d6 *man/pipe.Rd
+d31a9898bd904dffa4ae467b9ed9e28e *man/rutledge-package.Rd
+dc2f7c506966b8a38b54fd78f47a34be *man/rutledge.Rd
